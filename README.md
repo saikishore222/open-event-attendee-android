@@ -120,5 +120,5 @@ Please help us follow the best practices to make it easy for the reviewer as wel
 **Installing APK on your device:** You can get debug APK as well as Release APK in apk branch of the repository. After each PR merge, both the APKs are automatically updated. So, just download the APK you want and install it on your device. The APKs will always be the latest one.
 
 ## License
-
+###making changes for showing status files of repository
 This project is currently licensed under the Apache License Version 2.0. A copy of [LICENSE](LICENSE) should be present along with the source code. To obtain the software under a different license, please contact FOSSASIA.
